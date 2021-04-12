@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Namaskar! I&#39;m Kusha on Kusha Sridhar</title>
+    <link>https://kusha31.github.io/kusha_sridhar/</link>
+    <description>Recent content in Namaskar! I&#39;m Kusha on Kusha Sridhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 11:15:58 -0400</lastBuildDate><atom:link href="https://kusha31.github.io/kusha_sridhar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emotions are enmeshed in the neural networks of uncertainty</title>
+      <link>https://kusha31.github.io/kusha_sridhar/post/rejectoptions2/</link>
+      <pubDate>Sun, 11 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/post/rejectoptions2/</guid>
+      <description>view teaser image
+A smart Speech emotion recognition system that can tell how confident it is about its predictions
+  Selective prediction models can be most useful in real-world applications. A model with smartness to abstain from prediction when in doubt can facilitate human-in-the-loop solutions
+  Utilized Monte Carlo approximation to variational inference to implement create a smart emotion recognition system and demonstrated its benefits using reject options.</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Distillation with Latent Representations of Emotions</title>
+      <link>https://kusha31.github.io/kusha_sridhar/post/ts/</link>
+      <pubDate>Sat, 12 Sep 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/post/ts/</guid>
+      <description>view teaser image
+Ensemble of students taught by probabilistic teachers reduces confusion among students and at the same time improves their performance as well.
+  Speech emotion recognition system that gives scalable, reliable and consistent predictions, tailoring it to real-world applications
+  Knowledge transfer between teacher and student using the learned latent emotional representations by the teachers
+  Incorporating model diversity and preserving prediction uncertainty using Monte Carlo dropout and emsembling</description>
+    </item>
+    
+    <item>
+      <title>Coming soon...</title>
+      <link>https://kusha31.github.io/kusha_sridhar/post/coming-soon/</link>
+      <pubDate>Thu, 10 Sep 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/post/coming-soon/</guid>
+      <description>Uncertainty is Contagious: A novel generative modeling approach using soft-labels to model prediction uncertainties for speech emotion recognition
+  This study presents a generative modeling approach using VAEs to train emotion recognition models on soft-labels (true annotator distributions) to learn from the intricate confusion between labelers.
+  Presents an interest finding about using uncertainties to do transfer learning (more about this soon&amp;hellip;)
+  Representation learning for affective speech signal analysis and processing</description>
+    </item>
+    
+    <item>
+      <title>Acoustic Echo Cancellation Dataset</title>
+      <link>https://kusha31.github.io/kusha_sridhar/data/aec/</link>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/data/aec/</guid>
+      <description>The ICASSP 2021 Acoustic Echo Cancellation Challenge
+This was an effort conducted at Microsoft Corporation. I was the lead researcher and devised the entire pipeline for data collection, pre-processing, annotation, customer service and annotation. This is the first large-scale dataset created to stimulate research in the areas of speech enhancement, particularly in acoustic echo cancellation
+The ICASSP 2021 Acoustic Echo Cancellation Challenge is intended to stimulate research in the area of acoustic echo cancellation (AEC), which is an important part of speech enhancement and still a top issue in audio communication and conferencing systems.</description>
+    </item>
+    
+    <item>
+      <title>Latent Cluster Representation of Emotions from Speech Signals</title>
+      <link>https://kusha31.github.io/kusha_sridhar/post/deepemocluster/</link>
+      <pubDate>Sun, 05 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/post/deepemocluster/</guid>
+      <description>A novel Convolutional Neural Network based end-to-end formulation to tackle attribute-based speech emotion recognition.
+ A supervised emotional attribute-based regressor is jointly trained with an unsupervised cluster classifier, reinforcing the information gains from the unlabeled data to learn emotionally discriminative contents under a maximum latent clusters separation constraint.    The results provide evidence that the optimal number of clusters is a function of the size of the unlabeled set and the emotional attribute.</description>
+    </item>
+    
+    <item>
+      <title>How about a smart model that knows what it does not know?</title>
+      <link>https://kusha31.github.io/kusha_sridhar/post/rejectoptions/</link>
+      <pubDate>Thu, 05 Sep 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/post/rejectoptions/</guid>
+      <description>view teaser image
+Selective classification for speech emotion recognition (Reject options)
+  First study in speech emotion recognition aimed at developing a reliable system via uncertainty modeling through reject options
+  Reject Options: Abstaining from classification when in doubt to improve the reliability of a emotion recognition model
+  Utilized Bayesian empirical risk minimization framework, probabilistic backpropogation technique to model uncertainty in predictions and illustrated using a reject options framework</description>
+    </item>
+    
+    <item>
+      <title>Personalizing Speech Emotion Recognition Systems to Target Speakers</title>
+      <link>https://kusha31.github.io/kusha_sridhar/post/personalization/</link>
+      <pubDate>Wed, 10 Oct 2018 11:00:59 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/post/personalization/</guid>
+      <description>Unsupervised personalization of SER systems by adapting deep learning models to target speakers: The unique properties of the externalization of valence from speech
+  Finding closer source domain speakers at the level of emotional cues to personalize speech emotion recognition systems to target speakers. This approach works best for recognizing valence from speech because of the speaker dependent nature of valence emotional cues.
+  Achieved 12.01% relative gains in prediction performance on valence measured in terms of concordance correlation coefficient</description>
+    </item>
+    
+    <item>
+      <title>Why is valence emotion so hard to predict from speech?</title>
+      <link>https://kusha31.github.io/kusha_sridhar/post/valennce/</link>
+      <pubDate>Wed, 05 Sep 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/post/valennce/</guid>
+      <description>view teaser image
+Read through this study. You might want to look at valence emotion differently.
+  This study focusses on predicting valence emotional attribute from spontaneous speech. Deep Neural Network regularization methods are used improve its prediction.
+  Exploiting speaker dependent traits in emotional cues and showing valence is highly speaker dependent using deep neural network regularization techniques.
+  This study illustrated a new research direction where valence emotional attribute needs to be considered differently from others because of its unique properties such as speaker dependent traits and need for higher regularization</description>
+    </item>
+    
+    <item>
+      <title>The MSP-Podcast Corpus</title>
+      <link>https://kusha31.github.io/kusha_sridhar/data/msp/</link>
+      <pubDate>Thu, 05 Oct 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/data/msp/</guid>
+      <description>This is a database created by the Multimodal Signal Processing Laboratory at The University of Texas at Dallas. The principal investigator is Prof. Carlos Busso.
+We are building the largest naturalistic speech emotional dataset in the community. The MSP-Podcast corpus contains speech segments from podcast recordings which are perceptually annotated using crowdsourcing. The collection of this corpus is an ongoing process. Version 1.8 of the corpus has 73,042 speaking turns (113hrs)</description>
+    </item>
+    
+    <item>
+      <title>Relevant Links</title>
+      <link>https://kusha31.github.io/kusha_sridhar/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/contact/</guid>
+      <description>Look me up on these platforms
+           Google Scholar: https://scholar.google.com/citations?user=KoRnVCQAAAAJ&amp;amp;hl=en   Linkedin: https://www.linkedin.com/in/kusha-sridhar-799818102   Github: https://github.com/kusha31 (to be updated)   Lab Website: https://ecs.utdallas.edu/research/researchlabs/msp-lab/index.html    </description>
+    </item>
+    
+  </channel>
+</rss>

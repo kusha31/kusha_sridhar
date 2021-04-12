@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets on Kusha Sridhar</title>
+    <link>https://kusha31.github.io/kusha_sridhar/data/</link>
+    <description>Recent content in Datasets on Kusha Sridhar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kusha31.github.io/kusha_sridhar/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acoustic Echo Cancellation Dataset</title>
+      <link>https://kusha31.github.io/kusha_sridhar/data/aec/</link>
+      <pubDate>Mon, 18 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/data/aec/</guid>
+      <description>The ICASSP 2021 Acoustic Echo Cancellation Challenge
+This was an effort conducted at Microsoft Corporation. I was the lead researcher and devised the entire pipeline for data collection, pre-processing, annotation, customer service and annotation. This is the first large-scale dataset created to stimulate research in the areas of speech enhancement, particularly in acoustic echo cancellation
+The ICASSP 2021 Acoustic Echo Cancellation Challenge is intended to stimulate research in the area of acoustic echo cancellation (AEC), which is an important part of speech enhancement and still a top issue in audio communication and conferencing systems.</description>
+    </item>
+    
+    <item>
+      <title>The MSP-Podcast Corpus</title>
+      <link>https://kusha31.github.io/kusha_sridhar/data/msp/</link>
+      <pubDate>Thu, 05 Oct 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://kusha31.github.io/kusha_sridhar/data/msp/</guid>
+      <description>This is a database created by the Multimodal Signal Processing Laboratory at The University of Texas at Dallas. The principal investigator is Prof. Carlos Busso.
+We are building the largest naturalistic speech emotional dataset in the community. The MSP-Podcast corpus contains speech segments from podcast recordings which are perceptually annotated using crowdsourcing. The collection of this corpus is an ongoing process. Version 1.8 of the corpus has 73,042 speaking turns (113hrs)</description>
+    </item>
+    
+  </channel>
+</rss>
